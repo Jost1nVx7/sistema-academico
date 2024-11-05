@@ -16,5 +16,6 @@ public class SistemaAcademico {
         System.out.println("sistema academico");
         System.out.println("HOLA A TODOS");
         System.out.println("con contraseña");
+        System.out.println("YAAAAAAAAAAAAAAAA");
     }
 }
